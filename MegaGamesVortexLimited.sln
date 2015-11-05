@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mega geme", "MegaGamesVortexLimited\MegaGamesVortexLimited\Mega geme.csproj", "{C8C6AEBB-F55F-4D0F-B933-0415B73CD42F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaGamesVortexLimited_content", "MegaGamesVortexLimited\MegaGamesVortexLimitedContent\MegaGamesVortexLimited_content.contentproj", "{29FF24F6-034D-49CF-8305-18A2359D7DCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52A11960-C971-477F-964C-CE9AE741005A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C6AEBB-F55F-4D0F-B933-0415B73CD42F}.Debug|x86.ActiveCfg = Debug|x86
+		{C8C6AEBB-F55F-4D0F-B933-0415B73CD42F}.Debug|x86.Build.0 = Debug|x86
+		{C8C6AEBB-F55F-4D0F-B933-0415B73CD42F}.Release|x86.ActiveCfg = Release|x86
+		{C8C6AEBB-F55F-4D0F-B933-0415B73CD42F}.Release|x86.Build.0 = Release|x86
+		{29FF24F6-034D-49CF-8305-18A2359D7DCA}.Debug|x86.ActiveCfg = Debug|x86
+		{29FF24F6-034D-49CF-8305-18A2359D7DCA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
